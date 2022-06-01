@@ -56,4 +56,4 @@ Plot and identify distribution characteristics of a given dataset. Formulate nul
 * Lot 1 and Lot 2 show normal distribution there is not enough evidence to reject the null hypothesis. Lot 3 null hypothesis is rejected due to it exceeding the specification requirements. 
 
 ## Study Design: MechaCar vs Competition
-* The next metrics to test should focus on the horsepower, highway fuel efficiency and saftey rating. These are few concerns the consumers have mentioned. The null hypothesis is that the safety rating is zero. The alternative hypothesis is that the safety rating is not zero.  I believe a Two-Way ANOVA is best to test multiple variable.
+* The next metrics to test should focus on the horsepower, highway fuel efficiency and saftey rating. These are few concerns the consumers have mentioned. The null hypothesis is that the safety rating is zero. The alternative hypothesis is that the safety rating is not zero.  I believe a Using a multiple linear regression statistical summary would be the best option.
